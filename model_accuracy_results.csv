@@ -1,0 +1,5 @@
+Model,Test Accuracy (%)
+Decision Tree,82.61
+K-Nearest Neighbors,82.61
+Logistic Regression,78.26
+Support Vector Machine,78.26
